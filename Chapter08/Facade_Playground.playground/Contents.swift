@@ -38,7 +38,7 @@ struct  FlightBooking  {
     struct  RentalCarBooking  {
         static  func  getRentalCarNameForDates(to:  NSDate,  from:  NSDate) ->  [RentalCar]?  {
             let  cars  =  [RentalCar]()
-                //logic  to  get  flights
+                //logic  to  get  cars
             return  cars
         }
         
