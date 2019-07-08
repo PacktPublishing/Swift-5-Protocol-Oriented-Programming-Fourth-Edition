@@ -51,7 +51,7 @@ With the following software and hardware list you can run all code files present
 
 ## Get to Know the Author
 **Jon Hoffman**
-Jon Hoffman has over 20 years' experience in the field of Information Technology. Over those 20 years, Jon has worked in the system administration, network administration, network security, application development, and architecture arenas. Currently, he works as an Enterprise Software Manager at Syntech Systems. He has developed extensively for the iOS platform since 2008. This includes several apps that he has published in the App Store, apps that he has written for third parties, and numerous enterprise applications. Some of Jon's other interests are playing basketball, kayaking, and working out with his daughters. Jon also really enjoys Tae Kwon Do, where he and his oldest daughter earned their black belts together early in 2014 and are currently 3rd-degree Black Belts.
+has over 20 years' experience in the field of Information Technology. Over those 20 years, Jon has worked in the system administration, network administration, network security, application development, and architecture arenas. Currently, he works as an Enterprise Software Manager at Syntech Systems. He has developed extensively for the iOS platform since 2008. This includes several apps that he has published in the App Store, apps that he has written for third parties, and numerous enterprise applications. Some of Jon's other interests are playing basketball, kayaking, and working out with his daughters. Jon also really enjoys Tae Kwon Do, where he and his oldest daughter earned their black belts together early in 2014 and are currently 3rd-degree Black Belts.
 
 
 ## Other books by the authors
